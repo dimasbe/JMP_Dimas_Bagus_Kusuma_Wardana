@@ -276,14 +276,14 @@ flutter upgrade
 ### Home Screen
 <img src="assets/HomeScreen.jpeg" width="250"/>
 
-### Profile
-<img src="assets/Profile.jpeg" width="250"/>
+### Survey
+<img src="assets/Survey.jpeg" width="250"/>
 
 ### History
 <img src="assets/History.jpeg" width="250"/>
 
-### Survey
-<img src="assets/Survey.jpeg" width="250"/>
+### Profile
+<img src="assets/Profile.jpeg" width="250"/>
 
 ## 🤝 Kontribusi
 
