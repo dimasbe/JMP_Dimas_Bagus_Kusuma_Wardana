@@ -283,7 +283,7 @@ flutter upgrade
 <img src="assets/History.jpeg" width="250"/>
 
 ### Survey
-<img src="assets/images/Survey.jpeg" width="250"/>
+<img src="assets/Survey.jpeg" width="250"/>
 
 ## 🤝 Kontribusi
 
